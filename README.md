@@ -1,12 +1,13 @@
 Yes I Know Fizz Buzz
 ================
 
-Proof!
+[The FizzBuzz algorithm](http://blog.codinghorror.com/why-cant-programmers-program/) works like this:
+
+> Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 Here's the output of [the algorithm](https://github.com/tieTYT/YesIKnowFizzBuzz/blob/master/src/main/java/yesiknowfizzbuzz/FizzBuzz.java):
 
 ```
-0: FizzBuzz
 1: 1
 2: 2
 3: Fizz
@@ -106,4 +107,5 @@ Here's the output of [the algorithm](https://github.com/tieTYT/YesIKnowFizzBuzz/
 97: 97
 98: 98
 99: Fizz
+100: Buzz
 ```
