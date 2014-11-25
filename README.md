@@ -1,4 +1,4 @@
-YesIKnowFizzBuzz
+Yes I Know Fizz Buzz
 ================
 
 Proof!
