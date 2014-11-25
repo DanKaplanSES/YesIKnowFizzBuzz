@@ -3,7 +3,7 @@ Yes I Know Fizz Buzz
 
 Proof!
 
-Here's the output:
+Here's the output of [the algorithm](https://github.com/tieTYT/YesIKnowFizzBuzz/blob/master/src/main/java/yesiknowfizzbuzz/FizzBuzz.java):
 
 ```
 element 0: FizzBuzz
