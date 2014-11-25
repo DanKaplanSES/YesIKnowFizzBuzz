@@ -6,104 +6,104 @@ Proof!
 Here's the output of [the algorithm](https://github.com/tieTYT/YesIKnowFizzBuzz/blob/master/src/main/java/yesiknowfizzbuzz/FizzBuzz.java):
 
 ```
-element 0: FizzBuzz
-element 1: 1
-element 2: 2
-element 3: Fizz
-element 4: 4
-element 5: Buzz
-element 6: Fizz
-element 7: 7
-element 8: 8
-element 9: Fizz
-element 10: Buzz
-element 11: 11
-element 12: Fizz
-element 13: 13
-element 14: 14
-element 15: FizzBuzz
-element 16: 16
-element 17: 17
-element 18: Fizz
-element 19: 19
-element 20: Buzz
-element 21: Fizz
-element 22: 22
-element 23: 23
-element 24: Fizz
-element 25: Buzz
-element 26: 26
-element 27: Fizz
-element 28: 28
-element 29: 29
-element 30: FizzBuzz
-element 31: 31
-element 32: 32
-element 33: Fizz
-element 34: 34
-element 35: Buzz
-element 36: Fizz
-element 37: 37
-element 38: 38
-element 39: Fizz
-element 40: Buzz
-element 41: 41
-element 42: Fizz
-element 43: 43
-element 44: 44
-element 45: FizzBuzz
-element 46: 46
-element 47: 47
-element 48: Fizz
-element 49: 49
-element 50: Buzz
-element 51: Fizz
-element 52: 52
-element 53: 53
-element 54: Fizz
-element 55: Buzz
-element 56: 56
-element 57: Fizz
-element 58: 58
-element 59: 59
-element 60: FizzBuzz
-element 61: 61
-element 62: 62
-element 63: Fizz
-element 64: 64
-element 65: Buzz
-element 66: Fizz
-element 67: 67
-element 68: 68
-element 69: Fizz
-element 70: Buzz
-element 71: 71
-element 72: Fizz
-element 73: 73
-element 74: 74
-element 75: FizzBuzz
-element 76: 76
-element 77: 77
-element 78: Fizz
-element 79: 79
-element 80: Buzz
-element 81: Fizz
-element 82: 82
-element 83: 83
-element 84: Fizz
-element 85: Buzz
-element 86: 86
-element 87: Fizz
-element 88: 88
-element 89: 89
-element 90: FizzBuzz
-element 91: 91
-element 92: 92
-element 93: Fizz
-element 94: 94
-element 95: Buzz
-element 96: Fizz
-element 97: 97
-element 98: 98
-element 99: Fizz
+0: FizzBuzz
+1: 1
+2: 2
+3: Fizz
+4: 4
+5: Buzz
+6: Fizz
+7: 7
+8: 8
+9: Fizz
+10: Buzz
+11: 11
+12: Fizz
+13: 13
+14: 14
+15: FizzBuzz
+16: 16
+17: 17
+18: Fizz
+19: 19
+20: Buzz
+21: Fizz
+22: 22
+23: 23
+24: Fizz
+25: Buzz
+26: 26
+27: Fizz
+28: 28
+29: 29
+30: FizzBuzz
+31: 31
+32: 32
+33: Fizz
+34: 34
+35: Buzz
+36: Fizz
+37: 37
+38: 38
+39: Fizz
+40: Buzz
+41: 41
+42: Fizz
+43: 43
+44: 44
+45: FizzBuzz
+46: 46
+47: 47
+48: Fizz
+49: 49
+50: Buzz
+51: Fizz
+52: 52
+53: 53
+54: Fizz
+55: Buzz
+56: 56
+57: Fizz
+58: 58
+59: 59
+60: FizzBuzz
+61: 61
+62: 62
+63: Fizz
+64: 64
+65: Buzz
+66: Fizz
+67: 67
+68: 68
+69: Fizz
+70: Buzz
+71: 71
+72: Fizz
+73: 73
+74: 74
+75: FizzBuzz
+76: 76
+77: 77
+78: Fizz
+79: 79
+80: Buzz
+81: Fizz
+82: 82
+83: 83
+84: Fizz
+85: Buzz
+86: 86
+87: Fizz
+88: 88
+89: 89
+90: FizzBuzz
+91: 91
+92: 92
+93: Fizz
+94: 94
+95: Buzz
+96: Fizz
+97: 97
+98: 98
+99: Fizz
 ```
