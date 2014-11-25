@@ -1,17 +1,9 @@
 package yesiknowfizzbuzz;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class FizzBuzz {
 
     public static void main(String[] args) {
-        List<Integer> input = new ArrayList<>();
-        for (Integer i = 0; i < 100; i++) {
-            input.add(i);
-        }
-
-        for (Integer element : input) {
+        for (Integer element = 0; element < 100; element++) {
             System.out.print("element " + element + ": ");
             if (element % 3 == 0) {
                 System.out.print("Fizz");
